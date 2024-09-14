@@ -1,3 +1,3 @@
-https://kenney.nl/assets/space-shooter-redux -> Responsible for all the art assets and audio effects -> Licensed under CCO, information can be found at Assets/license.txt
+https://kenney.nl/assets/space-shooter-redux -> Responsible for all the art assets and audio effects (Audio, Backgrounds, and Ships folder) -> Licensed under CCO, information can be found at Assets/license.txt
 
 BaskervvilleSC-Regular -> from Google Fonts -> https://fonts.google.com/specimen/Baskervville -> Under OFL, licensing information can be found in Assets/OFL.txt
