@@ -64,7 +64,7 @@ namespace TDShooter
             for (int i = 0; i < _enemies.Length; i++)
             {
                 double randomMass = rand.NextDouble() * (maxMass - minMass) + minMass;
-                _enemies[i] = new EnemyShip() { Position = new Vector2(i * 300, 100), Mass = (float)randomMass };
+                _enemies[i] = new EnemyShip() { Position = new Vector2((i + 1) * 250, 100), Mass = (float)randomMass };
             }
 
             base.Initialize();
